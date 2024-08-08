@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm DeMSL 👋
 
-<!--
-**DeMSL/DeMSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m currently studying on VNW.
+- 🌱 I’m currently learning HTML5, CSS3, SASS.
+- 😄 Pronouns: She/Her.
+- ⚡ I'm just a studant tryng to learn more. So if you could help me, I'll be happy!🤩
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
